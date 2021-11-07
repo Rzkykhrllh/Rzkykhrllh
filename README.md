@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/TAILWIND%20-%2338B2AC.svg?&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com) 
 [![](https://img.shields.io/badge/NODE%20-%233C873A.svg?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org) 
-[![](https://img.shields.io/badge/Photoshop-%23121212?style=for-the-badge&logo=adobe-photoshop&logoColor=white&color=31A8FF)](https://www.adobe.com/products/photoshop.html) 
+[![](https://img.shields.io/badge/Photoshop-%23121212?style=flat-square&logo=adobe-photoshop&logoColor=white&color=31A8FF)](https://www.adobe.com/products/photoshop.html) 
 
 **Hello,**
 my name is **Muhammad Rizky Khairullah** and you can call me **Airu**. Now I’m third year Computer Science student at Universitas Gadjah Mada and FrontEnd Developer. Right now I am using ReactJS and Tailwind to build website interface.
