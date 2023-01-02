@@ -5,7 +5,7 @@
 ## :octocat: About me
 
 - :school: Final Year Student at <a href="https://www.ugm.ac.id/">Universitas Gadjah Mada</a>
-- :technologist: Software Engineer Intern at <a href="https://www.tiket.com/">Tiket.com</a>
+- :technologist: Ex-Software Engineer Intern at <a href="https://www.tiket.com/">Tiket.com</a>
 - :nerd_face: Always learning new things
 - :video_game: Spending my spare time with playing Genshin Impact
 
