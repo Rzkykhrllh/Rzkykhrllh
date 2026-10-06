@@ -1,34 +1,58 @@
-<h1>Hi , I'm Airu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi, I'm Airu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50](https://readme-typing-svg.herokuapp.com?center=true&width=421&lines=Computer+Science+Student+at+UGM;Frontend+Developer"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=480&lines=Backend+Engineer+in+Tokyo;Amateur+Photographer;Builds+APIs+by+day;Chases+good+light+on+weekends;Always+learning+new+things" alt="Typing SVG" /></a>
+
+I build backends by day and chase good light whenever I can.
+
+Software engineer in Tokyo, mostly on the backend side, but I like knowing how the whole thing fits together, so I end up touching infrastructure, frontend, and sometimes a bit of machine learning too. Outside of work, I'm usually walking around with a camera.
 
 ## :octocat: About me
 
-- :school: Final Year Student at <a href="https://www.ugm.ac.id/">Universitas Gadjah Mada</a>
-- :technologist: Ex-Software Engineer Intern at <a href="https://www.tiket.com/">Tiket.com</a>
-- :nerd_face: Always learning new things
-- :video_game: Spending my spare time with playing Genshin Impact
+```ts
+const airu = {
+  basedIn: "Tokyo 🇯🇵 (originally from Indonesia 🇮🇩)",
+  work: "Software Engineer @ Net Chart Japan (IIJ Group)",
+  education: "Computer Science @ Universitas Gadjah Mada",
+  enjoys: ["designing APIs", "self-hosting things", "making dashboards look nice"],
+  currentlyLearning: ["AWS", "日本語 (still going)"],
+  offline: ["photography", "finding new spots in Tokyo"],
+  speaks: ["Bahasa Indonesia", "English", "日本語"],
+};
+```
 
-<br>
+## :link: My corners of the internet
 
-## :computer: Languages and Tools
+[![Dev portfolio](https://img.shields.io/badge/💻_Dev_portfolio-byairu.dev-0D1117?style=for-the-badge&labelColor=58A6FF)](https://byairu.dev)
+[![Photography](https://img.shields.io/badge/📷_Photography-byairu.com-0D1117?style=for-the-badge&labelColor=E4405F)](https://byairu.com)
 
-[![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)](https://javascript.com)
-[![](https://img.shields.io/badge/TYPESCRIPT-%23121212?style=flat-square&logo=TYPESCRIPT&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/REACT%20-%2356BDDA.svg?&style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
-[![](https://img.shields.io/badge/NEXT.JS%20-%23323330.svg?&style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![](https://img.shields.io/badge/TAILWIND%20-%2338B2AC.svg?&style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![](https://img.shields.io/badge/SASS-hotpink.svg??&style=flat-square&logo=Sass&logoColor=white&color=FF9A00)](https://sass-lang.com/)
-[![](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)](https://mui.com/)
-[![](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
-[![](https://img.shields.io/badge-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
-[![](https://img.shields.io/badge/FIREBASE%20-%23FFA611.svg?&style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)](https://figma.com)
-[![](https://img.shields.io/badge/PHOTOSHOP-%23121212?style=flat-square&logo=adobe-photoshop&logoColor=white&color=31A8FF)](https://www.adobe.com/products/photoshop.html)
-[![](https://img.shields.io/badge/Illustrator-%23121212?style=flat-square&logo=adobe-illustrator&logoColor=white&color=FF9A00)](https://www.adobe.com/products/illustrator.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airu/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rzkykhrllh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.rizky.khairullah@gmail.com)
 
-## :email: Reach Me
+## :computer: Things I usually work with
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airu/)
-[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rzkykhrllh/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.rizky.khairullah@gmail.com?subject=subject&cc=cc@example.com)
+**Code**
+
+[![](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/NESTJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/PROMETHEUS-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![](https://img.shields.io/badge/GRAFANA-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
+[![](https://img.shields.io/badge/VUE.JS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![](https://img.shields.io/badge/SVELTEKIT-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev/)
+
+**Creative**
+
+[![](https://img.shields.io/badge/LIGHTROOM-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)
+[![](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com)
+
+---
+
+<p align="center"><i>Thanks for stopping by. Feel free to say hi! 🙌</i></p>
