@@ -22,7 +22,7 @@ const airu = {
 
 ## :link: My corners of the internet
 
-[![Dev portfolio](https://img.shields.io/badge/💻_Dev_portfolio-byairu.dev-0D1117?style=for-the-badge&labelColor=58A6FF)](https://byairu.dev)
+[![Dev portfolio](https://img.shields.io/badge/💻_Dev_portfolio-byairu.dev-0D1117?style=for-the-badge&labelColor=58A6FF)](https://dev.byairu.com)
 [![Photography](https://img.shields.io/badge/📷_Photography-byairu.com-0D1117?style=for-the-badge&labelColor=E4405F)](https://byairu.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airu/)
